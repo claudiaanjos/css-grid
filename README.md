@@ -1,6 +1,6 @@
 # CSS Grid
 
-### Projeto desenvolvido para o curso de *CSS Grid: Simplificando layouts* do instrutor Matheus Castiglioni (Alura).
+### Projeto desenvolvido para o curso de *CSS Grid: Simplificando layouts* com o instrutor Matheus Castiglioni (Alura).
 
 ### 📚  Descrição
 
