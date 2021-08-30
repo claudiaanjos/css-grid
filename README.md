@@ -11,14 +11,10 @@ Os objetivos do curso são:
 - Utilizar grid para calcular e alinhar elementos;
 - Criar templates com mais eficiência e simplicidade.
 
-### 🖥️  Instalações
+### 🖥️  Recursos Utilizados
 
 - [Visual Studio Code](https://code.visualstudio.com/download)
 
-### ⚒️  Tecnologias
-
-- [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
-- [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
 &nbsp;
 
